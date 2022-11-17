@@ -1,4 +1,4 @@
-//@version=1
+//@version=1 // by SMG
 study("Levels", overlay=true)
 header('Mode')
 const datamode = input("mode", 'plotshape', options=['Line','plotshape'])
