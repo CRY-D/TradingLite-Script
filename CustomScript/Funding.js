@@ -1,4 +1,4 @@
-//@version=1
+//@version=1 // by SMG
 study("Funding")
 const yield = input('Convert to Yield',false)
 header('')
