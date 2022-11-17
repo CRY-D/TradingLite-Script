@@ -1,4 +1,4 @@
-//@version=1
+//@version=1 // by SMG
 study("OI Pressure Bands",overlay=true)
 header('Data Source')
 const dataSrc = input("Data Source(Scale)", 'hl2', options=['open','high','low','close','ohlc4','hlc3','hl2','high/low','hc2/lc2'])
