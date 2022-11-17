@@ -1,4 +1,4 @@
-//@version=1
+//@version=1 // by SMG
 
 study("Metrics Pearson Correlation")
 const length = input('length',60)
