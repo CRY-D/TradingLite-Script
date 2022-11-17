@@ -1,4 +1,4 @@
-//@version=1
+//@version=1 // by SMG
 
 study("Cum. Data by DOW")
 const cumu = input("Cumulative",true)
