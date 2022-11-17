@@ -1,4 +1,4 @@
-//@version=1
+//@version=1 // by SMG
 study("Taker Buy Sell Volume Ratio")
 header("Config")
 const dataMode = input("mode", 'Line', options=['Line','Candle'])
