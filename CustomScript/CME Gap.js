@@ -1,4 +1,4 @@
-//@version=1
+//@version=1 // by SMG
 study("CME Gap",overlay=true)
 header('','Gap line')
 const plot_the_line = input('CME Friday Close',true)
