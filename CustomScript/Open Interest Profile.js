@@ -1,4 +1,4 @@
-//@version=1
+//@version=1 //by SMG
 study("Open Interest Profile/ Fixed Range",overlay=true)
 header('Open Interest Profile Variation')
 const dataOIP = input("OI Profile Variation", 'Delta', options=['Open Positions Only','Close Positions Only','Delta'])
