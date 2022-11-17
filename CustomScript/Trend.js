@@ -1,5 +1,5 @@
-//@version=1
-study("Trend",overlay=true)//Inspired by Silico
+//@version=1 // by SMG
+study("Trend",overlay=true)//Inspired by Silico's Trend Heuristics 
 header('Configs','Candle')
 const dataCANDLE = input("Candle type", 'Candle', options=['None','Candle','Candle like','HL Candle'])
 seq p = 1
