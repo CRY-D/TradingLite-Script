@@ -3,7 +3,7 @@ study("nATR",  overlay=false)
 
 const length = input("Length",30)
 
-const dataMA = input("Smoothing", 'RMA', options=['SMA','EMA','RMA','WMA','HMA','EHMA','THMA'])
+const dataMA = input("Smoothing", 'RMA', options=['SMA','EMA','RMA','WMA'])
 seq srcMA = 1
 switch(dataMA){
   case 'SMA':
