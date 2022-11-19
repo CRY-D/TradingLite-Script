@@ -4,8 +4,6 @@ TradingLite Custom Scripts by SMG
 
 
 # Donation
-
-![2022-11-20 02 04 43 lnurl com 66867b057e25](https://user-images.githubusercontent.com/86971113/202865020-fdd9f504-b882-4095-9709-b42c729325bc.png)
-
+![WoS](https://user-images.githubusercontent.com/86971113/202865093-36410cf2-698e-4bc5-b7cc-0a46a4ac2739.png)
 
 bech32: bc1qwrhp8gl3xt7ju2qrase6l9tmwt2mgdmrm83ggn
