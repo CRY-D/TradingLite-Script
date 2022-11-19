@@ -4,4 +4,4 @@ TradingLite Custom Scripts by SMG
 
 Thank you for your donation.
 
-![2022-11-20 02 04 43 lnurl com 66867b057e25](https://user-images.githubusercontent.com/86971113/202863851-b4f129f1-f689-4303-a962-eb67ca2e839d.png)
+<img width="267" alt="image" src="https://user-images.githubusercontent.com/86971113/202863960-41e84cef-7d63-4d0b-b9ea-9b6a868c8314.png">
