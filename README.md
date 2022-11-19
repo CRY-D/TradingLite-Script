@@ -1,4 +1,5 @@
 # TradingLite-Script
 TradingLite Custom Scripts by SMG
 
-ref-link: https://www.tradinglite.com/join?ref=SMG
+Thank you for your donation.
+bc1qwrhp8gl3xt7ju2qrase6l9tmwt2mgdmrm83ggn
