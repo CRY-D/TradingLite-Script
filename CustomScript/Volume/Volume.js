@@ -14,5 +14,5 @@ seq color_v = d>0?color_vbuy:color_vsell
 seq color = switch_color? color_v : color_total
 
 histogram(v, color=color,transp=80)
-histogram(vbuy, base=0,color=color_vbuy, width=0.1, offset=0.1) 
-histogram(vsell, base=0,color=color_vsell, width=0.1, offset=-0.1) 
+histogram(vbuy, color=color_vbuy, width=0.1, offset=0.1) 
+histogram(vsell,color=color_vsell, width=0.1, offset=-0.1) 
