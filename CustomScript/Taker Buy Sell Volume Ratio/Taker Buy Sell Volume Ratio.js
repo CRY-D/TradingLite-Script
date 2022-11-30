@@ -172,7 +172,7 @@ switch(dataTimeframe){
      tf = 50*1440/timeframe
      break
   case '100D':
-     tf = 30*1440/timeframe
+     tf = 100*1440/timeframe
      break
   case 'Full':
      tf = bar_index
